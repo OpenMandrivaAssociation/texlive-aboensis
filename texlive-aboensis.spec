@@ -1,6 +1,6 @@
 Name:		texlive-aboensis
 Version:	62977
-Release:	1
+Release:	2
 Summary:	A late medieval OpenType cursive font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aboensis
