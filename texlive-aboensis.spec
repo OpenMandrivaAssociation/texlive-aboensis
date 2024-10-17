@@ -3,7 +3,7 @@ Version:	62977
 Release:	2
 Summary:	A late medieval OpenType cursive font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/aboensis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/aboensis
 License:	ofl lppl1.3c cc-by-4 pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aboensis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/aboensis.doc.r%{version}.tar.xz
